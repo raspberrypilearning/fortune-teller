@@ -1,13 +1,18 @@
-## What you will need
+## Scrolling text
 
-### Hardware
+Let's start by scrolling some text instructions on your micro:bit.
 
-+ List hardware here, or delete section.
 
-### Software
 
-+ List software here, or delete section.
++ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
 
-### Additional Resources
+You can delete the `forever` block by dragging it over the palette, you don't need it for this project. 
 
-+ List additional resources, or delete section.
++ Drag a `show string` block inside your `start` start.
+
+![screenshot](images/fortune-press-a.png)
+
++ Test out your code. You can test it out in the emulator or on the micro:bit itself.
+
+
+
