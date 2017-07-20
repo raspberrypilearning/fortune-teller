@@ -10,7 +10,7 @@ __Instructions__: If you're reading this online, ask the micro:bit below a quest
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](./print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/fortune-teller/print).
 
 
 --- collapse ---
