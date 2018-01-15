@@ -1,6 +1,6 @@
 ## Introduction
 
-You are going to code your micro:bit to read the future! Simply ask the micro:bit a quesition, and press a button to find out the answer!
+You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
 
 __Instructions__: If you're reading this online, ask the micro:bit below a question and press __A__ to get your answer!
 
