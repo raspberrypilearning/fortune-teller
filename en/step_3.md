@@ -44,14 +44,10 @@ To do this, drag an `if` block onto the bottom of your `on button A pressed` eve
 
 ![screenshot](images/fortune-if-finished.png)
 
-+ Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show text` block.
++ Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show string` block.
 
 ![screenshot](images/fortune-no.png)
 
 + Test your code.
 	+ Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
 	+ Sometimes the `answer` will be 1, and nothing will happen!
-
-
-
-
