@@ -1,6 +1,6 @@
 ## Gwneud penderfyniad
 
-Gadewch i ni gael eich micro:bit i wneud penderfyniad wrth ddewis rhif ar hap (`0` ar gyfer 'Na' a `1` ar gyfer 'Ie'.
+Gadewch i ni gael eich micro:bit i wneud penderfyniad wrth ddewis rhif ar hap (`0` ar gyfer 'Na' a `1` ar gyfer 'Ie').
 
 + Ychwanegwch ddigwyddiad `on button A pressed` (botwm A wedi'i wasgu) newydd i'ch cod.
 
