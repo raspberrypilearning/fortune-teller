@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Shake your micro:bit
+## Her: Ysgwydwch eich micro:bit
 
-Can you code your micro:bit to make a decision when it is shaken instead of when a button is pressed?
+A allwch chi godio eich micro:bit i wneud penderfyniad pan fydd yn cael ei ysgwyd yn hytrach na phan fydd botwm yn cael ei wasgu?
 
 \--- /challenge \---
