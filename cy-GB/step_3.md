@@ -1,51 +1,51 @@
-## Making a decision
+## Gwneud penderfyniad
 
-Let's get your micro:bit to make a decision by randomly choosing a number (`0` for 'No' and `1` for 'Yes').
+Gadewch i ni gael eich micro:bit i wneud penderfyniad wrth ddewis rhif ar hap (`0` ar gyfer 'Na' a `1` ar gyfer 'Ie'.
 
-+ Add a new `on button A pressed` event to your code.
++ Ychwanegwch ddigwyddiad `on button A pressed` (botwm A wedi'i wasgu) newydd i'ch cod.
 
-![screenshot](images/fortune-on-a-pressed.png)
+![sgrinlun](images/fortune-on-a-pressed.png)
 
-+ Let's create a new variable to store the answer. Click the 'Variables' and then click 'Make a variable'.
++ Gadewch i ni greu newidyn newydd i storio'r ateb. Cliciwch y 'Variables' (Newidynnau) ac yna cliciwch 'Make a variable' (Gwneud newidyn).
 
-![screenshot](images/fortune-variables.png)
+![sgrinlun](images/fortune-variables.png)
 
-+ Name the new variable called `answer`.
++ Enwch y newidyn newydd yn `ateb`.
 
-![screenshot](images/fortune-answer.png)
+![sgrinlun](images/fortune-answer.png)
 
-+ Drag a `set` block fom Variables into your `on button A pressed` block and select the `answer` variable.
++ Llusgwch floc `set` o Newidynnau i mewn i'ch bloc `on button A pressed` a dewiswch y newidyn `ateb`.
 
-![screenshot](images/fortune-set.png)
+![sgrinlun](images/fortune-set.png)
 
-As you can see, the `to` in the block means that you can set the answer to display.
+Fel y gallwch weld, mae'r `to` (i) yn y bloc yn golygu y gallwch osod yr ateb i arddangos.
 
-+ Click 'Math' and drag a `pick random` block after the `to`:
++ Cliciwch 'Math' a llusgo bloc `pick random` (dewis ar hap) ar ôl y `to` (i):
 
-![screenshot](images/fortune-random.png)
+![sgrinlun](images/fortune-random.png)
 
-+ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
++ Dywedwch wrth y bloc ar hap am ddewis rhif rhwng 0 a 1. Dyma sut y dylai eich cod ymddangos:
 
-![screenshot](images/fortune-random-1.png)
+![sgrinlun](images/fortune-random-1.png)
 
-+ Next, you want to display the word `No` on the micro:bit only `if` the `answer` is 0.
++ Nesaf, rydych chi am arddangos y gair `Na` ar y micro:bit yn unig `if` (os) yw'r `ateb` yn 0.
 
-To do this, drag an `if` block onto the bottom of your `on button A pressed` event:
+I wneud hyn, llusgwch floc `if` ar waelod eich digwyddiad `on button A pressed`:
 
-![screenshot](images/fortune-if.png)
+![sgrinlun](images/fortune-if.png)
 
-+ Next drag an `=` block as the condition in the `if`:
++ Nesaf llusgwch floc `=` fel yr amod yn y `if`:
 
-![screenshot](images/fortune-equals.png)
+![sgrinlun](images/fortune-equals.png)
 
-+ Drag your `answer` variable onto the left side of the `if` block.
++ Llusgwch eich newidyn `ateb` ar ochr chwith y bloc `if`.
 
-![screenshot](images/fortune-if-finished.png)
+![sgrinlun](images/fortune-if-finished.png)
 
-+ Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show string` block.
++ Ni fydd unrhyw god tu mewn i'r bloc `if` yn rhedeg oni bai mai 0 yw'r `ateb`. Gan fod 0 yn `Na`, gadewch i ni ychwanegu bloc `show string` (dangos llinyn).
 
-![screenshot](images/fortune-no.png)
+![sgrinlun](images/fortune-no.png)
 
-+ Test your code. 
-    + Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
-    + Sometimes the `answer` will be 1, and nothing will happen!
++ Rhowch brawf ar eich cod. 
+    + Weithiau bydd yr `ateb` yn 0, a dylai'r micro:bit ddweud 'Na'.
+    + Weithiau bydd yr `ateb` yn 1, ac ni fydd dim byd yn digwydd!
