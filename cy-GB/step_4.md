@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Multiple answers
+## Her: Atebion lluosog
 
-Can you add code so that 'Yes' is displayed on your micro:bit **if** the answer is 1? You can even change the text shown to something more interesting than just 'Yes' and 'No'!
+Allwch chi ychwanegu cod fel bod 'Ie' yn cael ei arddangos ar eich micro:bit **if** (os) yw'r ateb yn 1? Gallwch chi hyd yn oed newid y testun a ddangosir i rywbeth mwy diddorol na dim ond 'Ie' a 'Na'!
 
-You can even make your micro:bit say something like 'Maybe' or 'Ask again' if the answer is 2. To get this working, you'll also need to change your code to choose a random number between 0 and 2!
+Gallwch hyd yn oed wneud i'ch micro:bit ddweud rhywbeth fel 'Efallai' neu 'Gofynnwch eto' os yw'r ateb yn 2. I gael hyn i weithio, bydd angen i chi newid eich cod hefyd i ddewis rhif hap rhwng 0 a 2!
 
-Tip: You can right-click on an `if` block to duplicate the block and its contents.
+Awgrym: Gallwch chi glicio ar floc `if` (os) i ddyblygu'r bloc a'i gynnwys.
 
-![screenshot](images/fortune-random-2.png)
+![sgrinlun](images/fortune-random-2.png)
 
 \--- /challenge \---
