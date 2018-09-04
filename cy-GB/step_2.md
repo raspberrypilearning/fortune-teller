@@ -1,13 +1,13 @@
-## Scrolling text
+## Sgrolio testun
 
-Let's start by scrolling some text instructions on your micro:bit.
+Gadewch i ni ddechrau trwy sgrolio rhai cyfarwyddiadau testun ar eich micro:bit.
 
-+ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
++ Ewch i <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> i ddechrau prosiect newydd yn y golygydd MakeCode (PXT). Galwch eich prosiect newydd yn 'Adroddwr Ffortiwn'.
 
-You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
+Gallwch ddileu'r bloc `forever` (am byth) wrth ei lusgo dros y palet, nid oes ei angen arnoch ar gyfer y prosiect hwn.
 
-+ Drag a `show string` block inside your `start` block.
++ Llusgwch floc `show string` (dangos llinyn) tu mewn i'ch bloc `start` (dechrau).
 
-![screenshot](images/fortune-press-a.png)
+![sgrinlun](images/fortune-press-a.png)
 
-+ Test out your code. You can test it out in the emulator or on the micro:bit itself.
++ Rhowch brawf ar eich cod. Gallwch chi ei brofi yn yr efelychydd neu ar y micro:bit ei hun.
