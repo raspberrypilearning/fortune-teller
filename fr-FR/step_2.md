@@ -1,6 +1,6 @@
 ## Faire défiler du texte
 
-Commençons par afficher les instructions sur ta micro:bit sous forme d'un texte qui défile.
+Commençons par afficher les instructions sur ton micro:bit sous forme d'un texte qui défile.
 
 + Va sur <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> pour démarrer un nouveau projet avec l'éditeur PXT.
   Appelle ton projet 'Diseuse de bonne aventure'.
