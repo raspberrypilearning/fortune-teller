@@ -1,7 +1,7 @@
 ## Introduction
 
-Tu vas utiliser ta micro:bit pour prédire le futur !
-Pose simplement une question à ta micro:bit, et appuie sur un bouton pour découvrir la réponse !
+Tu vas utiliser ton micro:bit pour prédire le futur !
+Pose simplement une question à ton micro:bit, et appuie sur un bouton pour découvrir la réponse !
 
 __Instructions__ : Si tu lis ceci en ligne, pose une question à la micro:bit ci-dessous et appuie sur __A__ pour voir sa réponse !
 
@@ -43,6 +43,6 @@ Ce projet couvre les éléments suivants du programme [Raspberry Pi Digital Maki
 ## Défis
 
 + "Réponses multiples" - Améliorer l'utilisation des blocs `if`, en ajoutant les réponses 'Non' and 'Demande encore'.
-+ "Secoue ta micro:bit" - Secouer la micro:bit au lieu d'appuyer sur un bouton.
++ "Secoue ton micro:bit" - Secouer la micro:bit au lieu d'appuyer sur un bouton.
 
 --- /collapse ---
