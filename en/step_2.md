@@ -4,7 +4,7 @@ Let's start by scrolling some text instructions on your micro:bit.
 
 
 
-+ Go to <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
 
 You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
 
