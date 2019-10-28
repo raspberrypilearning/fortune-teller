@@ -5,20 +5,25 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programmation-1, phys-comp-0, fabrication-0, communauté-0
 title: Diseuse de bonne aventure
-description: Utilise ta micro:bit pour prédire le futur !
+description: Utilise ton micro:bit pour prédire le futur !
 original_url: https://codeclubprojects.org/en-GB/microbit/fortune-teller
 interests: ''
 technologies: microbit
-site_areas: projects
+site_areas: projets
 hardware: microbit
 software: ''
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introduction
-- title: Faire défiler du texte
-- title: Prendre un décision
-- title: 'Défi : Plusieurs réponses'
-- title: 'Défi : Secoue ta micro:bit'
+steps:
+  - 
+    title: Introduction
+  - 
+    title: Faire défiler du texte
+  - 
+    title: Prendre un décision
+  - 
+    title: 'Défi : Plusieurs réponses'
+  - 
+    title: 'Défi : Secoue ton micro:bit'
