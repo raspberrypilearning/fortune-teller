@@ -1,15 +1,13 @@
-## Faire défiler du texte
+## Scrolling text
 
-Commençons par afficher les instructions sur ta micro:bit sous forme d'un texte qui défile.
+Let's start by scrolling some text instructions on your micro:bit.
 
-+ Va sur <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> pour démarrer un nouveau projet avec l'éditeur PXT.
-  Appelle ton projet 'Diseuse de bonne aventure'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
 
-Tu peux supprimer le bloc `toujours` en le déplaçant sur la palette, tu n'en auras pas besoin pour ce projet.
+You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
 
-+ Place un bloc `afficher texte` à l'intérieur du bloc `au démarrage`.
++ Drag a `show string` block inside your `start` block.
 
 ![screenshot](images/fortune-press-a.png)
 
-+ Teste ton code.
-  Tu peux le tester sur l'émulateur ou bien sur la micro:bit elle-même.
++ Test out your code. You can test it out in the emulator or on the micro:bit itself.
