@@ -14,7 +14,7 @@ Gadewch i ni gael eich micro:bit i wneud penderfyniad wrth ddewis rhif ar hap (`
 
 ![sgrinlun](images/fortune-answer.png)
 
-+ Llusgwch floc `set` o Newidynnau i mewn i'ch bloc `on button A pressed` a dewiswch y newidyn `ateb`.
++ Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
 
 ![sgrinlun](images/fortune-set.png)
 
