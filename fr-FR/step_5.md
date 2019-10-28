@@ -1,7 +1,7 @@
---- challenge ---
-## Défi : Secoue ta micro:bit
-Peux-tu programmer ta micro:bit pour qu'elle prenne une décision lorsqu'on la secoue au lieu de lorsque un bouton est pressé.
+\--- challange \---
 
+## Challenge: Shake your micro:bit
 
+Can you code your micro:bit to make a decision when it is shaken instead of when a button is pressed?
 
---- /challenge ---
+\--- /challenge \---
