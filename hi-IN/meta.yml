@@ -18,7 +18,7 @@ version: 3.0.1
 last_tested: 2019-02-28
 steps:
   - 
-    title: परिचय
+    title: भूमिका
   - 
     title: टेक्स्ट स्क्रॉल करना
   - 
