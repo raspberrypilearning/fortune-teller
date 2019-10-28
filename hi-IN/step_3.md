@@ -4,7 +4,7 @@
 
 + अपने कोड में `on button A pressed` (<0>बटन A दबाए जाने पर</0>) नामक एक नया इवेंट जोड़ें।
 
-![स्क्रीनशॉट](images/fortune-on-a-pressed.png)
+![screenshot](images/fortune-on-a-pressed.png)
 
 + आइए हम उत्तर को संगृहीत करने के लिए एक नया वेरिएबल बनाएँ। 'Variables' ('वेरिएबल') पर क्लिक करें और फिर 'Make a variable' ('एक वेरिएबल बनाएँ') पर क्लिक करें।
 
@@ -14,7 +14,7 @@
 
 ![स्क्रीनशॉट](images/fortune-answer.png)
 
-+ वेरिएबल्स में से एक `set` (सेट) ब्लॉक को अपने `on button A+B pressed` (बटन A+B दबाए जाने पर) ब्लॉक में ड्रैग करें और `उत्तर` वेरिएबल का चयन करें।
++ Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
 
 ![स्क्रीनशॉट](images/fortune-set.png)
 
@@ -24,7 +24,7 @@
 
 ![स्क्रीनशॉट](images/fortune-random.png)
 
-+ रैंडम ब्लॉक को 0 और 1 के बीच की कोई संख्या चुनने के लिए कहें। यहाँ दिखाया गया है कि आपका कोड कैसा दिखना चाहिए:
++ रैंडम ब्लॉक को 0 और 1 के बीच की कोई संख्या चुनने के लिए कहें। यहाँ दिखाया गया है कि आपका कोड कैसा दिखेगा:
 
 ![स्क्रीनशॉट](images/fortune-random-1.png)
 
