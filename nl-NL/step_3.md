@@ -14,7 +14,7 @@ Laten we je micro:bit nemen om een beslissing te nemen door willekeurig een geta
 
 ![schermafbeelding](images/fortune-answer.png)
 
-+ Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
++ Sleep een `stel in op` blok van Variables in je `wanneer knop A wordt ingedrukt` blok en selecteer de `antwoord` variabele.
 
 ![schermafbeelding](images/fortune-set.png)
 
