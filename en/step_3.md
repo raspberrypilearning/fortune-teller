@@ -16,7 +16,7 @@ Let's get your micro:bit to make a decision by randomly choosing a number (`0` f
 
 ![screenshot](images/fortune-answer.png)
 
-+ Drag a `set` block fom Variables into your `on button A pressed` block and select the `answer` variable.
++ Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
 
 ![screenshot](images/fortune-set.png)
 
