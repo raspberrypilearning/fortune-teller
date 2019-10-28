@@ -2,7 +2,7 @@
 
 आइए हम आपके micro:bit पर कुछ पाठ निर्देशों को स्क्रॉल करके शुरू करें।
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. अपने नए प्रोजेक्ट का नाम 'भाग्य वाचक' रखें।
++ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> पर जाएंँ। अपने नए प्रोजेक्ट का नाम 'भाग्य वाचक' रखें।
 
 आप `forever` (हमेशा के लिए) ब्लॉक को पैलेट पर खींचकर हटा सकते हैं, आपको इस परियोजना के लिए इसकी आवश्यकता नहीं है।
 
