@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Izazov: Višestruki odgovori
+## Challenge: Multiple answers
 
-Možete li dodati kôd tako da se na mikro: bit **prikaže "Da", ako je** odgovor 1? Možete čak i promijeniti prikazani tekst u nešto zanimljivije od samo 'Da' i 'Ne'!
+Can you add code so that 'Yes' is displayed on your micro:bit **if** the answer is 1? You can even change the text shown to something more interesting than just 'Yes' and 'No'!
 
-Možete čak napraviti svoj mikro: bit ćete reći nešto poput "Možda" ili "Pitaj ponovo" ako je odgovor 2. Da biste ovo učinili, morat ćete i promijeniti kôd da biste odabrali slučajni broj između 0 i 2!
+You can even make your micro:bit say something like 'Maybe' or 'Ask again' if the answer is 2. To get this working, you'll also need to change your code to choose a random number between 0 and 2!
 
-Savjet: Desnim klikom na blok `if` možete duplicirati i duplicirati blok i njegov sadržaj.
+Tip: You can right-click on an `if` block to duplicate the block and its contents.
 
-![snimka zaslona](images/fortune-random-2.png)
+![screenshot](images/fortune-random-2.png)
 
 \--- /challenge \---
