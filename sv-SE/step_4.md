@@ -8,6 +8,6 @@ You can even make your micro:bit say something like 'Maybe' or 'Ask again' if th
 
 Tip: You can right-click on an `if` block to duplicate the block and its contents.
 
-![skärmdump](images/fortune-random-2.png)
+![screenshot](images/fortune-random-2.png)
 
 \--- /challenge \---
