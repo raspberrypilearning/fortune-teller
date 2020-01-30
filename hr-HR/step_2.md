@@ -1,13 +1,13 @@
-## Pomicanje teksta
+## Scrolling text
 
-Započnimo pomicanjem nekih tekstualnih uputa na vašem mikro: bitu.
+Let's start by scrolling some text instructions on your micro:bit.
 
-+ Idite na <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> da biste pokrenuli novi projekt u MakeCode (PXT) uređivaču. Nazovite svoj novi projekt "Tragač".
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
 
-Možete izbrisati blok `zauvijek` povlačenjem preko palete, ne treba vam za ovaj projekt.
+You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
 
-+ Povucite niz `prikaži` blok unutar vašeg `start` bloka.
++ Drag a `show string` block inside your `start` block.
 
 ![screenshot](images/fortune-press-a.png)
 
-+ Testirajte svoj kôd. Možete ga testirati na emulatoru ili na samom micro: bit-u.
++ Test out your code. You can test it out in the emulator or on the micro:bit itself.
