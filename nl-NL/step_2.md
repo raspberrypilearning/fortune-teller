@@ -1,13 +1,13 @@
-## Scrollende tekst
+## Scrolling text
 
-Laten we beginnen door enkele tekstinstructies op je micro:bit te laten scrollen.
+Let's start by scrolling some text instructions on your micro:bit.
 
-+ Ga naar <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> om een ​​nieuw project te starten in de MakeCode (PXT) editor. Noem je nieuwe project 'Waarzegger'.
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
 
-Je kunt het `de hele tijd` blok verwijderen door het over het palet te slepen, je hebt het niet nodig voor dit project.
+You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
 
-+ Sleep een `toon tekens` blok in je `bij opstarten` blok.
++ Drag a `show string` block inside your `start` block.
 
-![schermafbeelding](images/fortune-press-a.png)
+![screenshot](images/fortune-press-a.png)
 
-+ Test je code. Je kunt het testen in de emulator of op de micro: bit zelf.
++ Test out your code. You can test it out in the emulator or on the micro:bit itself.
