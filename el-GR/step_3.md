@@ -24,7 +24,7 @@ As you can see, the `to` in the block means that you can set the answer to displ
 
 ![screenshot](images/fortune-random.png)
 
-+ Tell the random block to choose a number between 0 and 1. Έτσι πρέπει να φαίνεται ο κώδικας:
++ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
 
 ![screenshot](images/fortune-random-1.png)
 
@@ -46,6 +46,6 @@ To do this, drag an `if` block onto the bottom of your `on button A pressed` eve
 
 ![screenshot](images/fortune-no.png)
 
-+ Δοκίμασε τον κώδικά σου. 
++ Test your code. 
     + Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
     + Sometimes the `answer` will be 1, and nothing will happen!
