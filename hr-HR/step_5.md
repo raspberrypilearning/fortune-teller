@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Izazov: Protresite mikro: bit
+## Challenge: Shake your micro:bit
 
-Možete li kodirati svoj micro: bit za donošenje odluke kada se trese umjesto da se pritisne gumb?
+Can you code your micro:bit to make a decision when it is shaken instead of when a button is pressed?
 
 \--- /challenge \---
