@@ -1,4 +1,4 @@
-## 들어가며
+## Introduction
 
 You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
 
@@ -8,19 +8,19 @@ You are going to code your micro:bit to read the future! Simply ask the micro:bi
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### 교육자들을 위한 추가 정보
+### Additional information for club leaders
 
-이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/fortune-teller/print)를 사용하십시오.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
 
 ## \--- collapse \---
 
-## 제목: 교육자 노트
+## title: Club leader notes
 
-## 소개
+## Introduction:
 
 In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
 
-## 자료
+## Resources
 
 For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
@@ -28,16 +28,16 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 * FortuneTeller.hex
 
-## 학습 목표
+## Learning Objectives
 
 * Selection `if` blocks;
 * The `random` block.
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 다음 과정에 대한 내용을 다룹니다:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [기본 프로그래밍 문법으로 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## 도전과제
+## Challenges
 
 * "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
 * "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
@@ -46,11 +46,11 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 ## \--- collapse \---
 
-## 제목: 프로젝트 자료
+## title: Project materials
 
-## 교육자를 위한 자료
+## Club leader resources
 
 * [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
 * [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
 
--- /collapse \---
+\--- /collapse \---
