@@ -1,56 +1,56 @@
-## Inleiding
+## Introduction
 
-Je gaat je micro:bit coderen om de toekomst te kunnen lezen! Stel gewoon een vraag aan de micro:bit, en klik op de knop om het antwoord te zien!
+You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
 
-**Instructies**: Als je dit online leest, stel de micro:bit hieronder een vraag en klik op **A** om je antwoord te krijgen!
+**Instructions**: If you're reading this online, ask the micro:bit below a question and press **A** to get your answer!
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Aanvullende informatie voor clubleiders
+### Additional information for club leaders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
 
 ## \--- collapse \---
 
-## titel: Clubleider notities
+## title: Club leader notes
 
-## Inleiding:
+## Introduction:
 
-In dit project leren kinderen hoe ze gebruik kunnen maken van selectie door een 'waarzegger' te maken. De waarzegger werkt als een magic 8-ball en geeft de gebruiker het antwoord op een vraag die zij aan de micro:bit stelt.
+In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
 
-## Bronnen
+## Resources
 
-Voor dit project moet de [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit-editor worden gebruikt.
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-Je kunt een voltooide versie van dit project vinden op [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), en het gecompileerde .hex-bestand kan worden gedownload door te klikken op de link 'Projectmaterialen downloaden' voor dit project, dat bevat:
+You can find a completed version of this project at [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * FortuneTeller.hex
 
-## Leerdoelen
+## Learning Objectives
 
-* Selectie `als` blokken;
-* Het `kies willekeurig` blok.
+* Selection `if` blocks;
+* The `random` block.
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Gebruik eenvoudige programmeerconstructies om simpele programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Uitdagingen
+## Challenges
 
-* "Meerdere antwoorden" - Consolidering van het gebruik van `als` blokken, door 'Nee' en 'Vraag opnieuw' antwoorden toe te voegen.
-* "Schud je micro:bit" - Schud de micro:bit in plaats van op een knop te drukken.
+* "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
+* "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Projectmaterialen
+## title: Project materials
 
-## Clubleider middelen
+## Club leader resources
 
-* [online voltooid project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
-* [.hex projectbestand om over te zetten naar je micro:bit](resources/microbit-Fortune-Teller.hex)
+* [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
 
 \--- /collapse \---
