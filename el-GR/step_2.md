@@ -10,4 +10,4 @@ You can delete the `forever` block by dragging it over the palette, you don't ne
 
 ![screenshot](images/fortune-press-a.png)
 
-+ Δοκίμασε τον κώδικά σου. You can test it out in the emulator or on the micro:bit itself.
++ Test out your code. You can test it out in the emulator or on the micro:bit itself.
