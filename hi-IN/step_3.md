@@ -1,51 +1,51 @@
-## निर्णय लेना
+## Making a decision
 
-आइए हम यादृच्छिक रूप से 'नहीं' के लिए `0` और 'हाँ' के लिए `1` संख्या को चुनकर आपके micro:bit से कोई निर्णय करवाएँ।
+Let's get your micro:bit to make a decision by randomly choosing a number (`0` for 'No' and `1` for 'Yes').
 
-+ अपने कोड में `on button A pressed` (<0>बटन A दबाए जाने पर</0>) नामक एक नया इवेंट जोड़ें।
++ Add a new `on button A pressed` event to your code.
 
 ![screenshot](images/fortune-on-a-pressed.png)
 
-+ आइए हम उत्तर को संगृहीत करने के लिए एक नया वेरिएबल बनाएँ। 'Variables' ('वेरिएबल') पर क्लिक करें और फिर 'Make a variable' ('एक वेरिएबल बनाएँ') पर क्लिक करें।
++ Let's create a new variable to store the answer. Click the 'Variables' and then click 'Make a variable'.
 
-![स्क्रीनशॉट](images/fortune-variables.png)
+![screenshot](images/fortune-variables.png)
 
-+ `उत्तर` नामक नए वेरिएबल को कोई नाम दें।
++ Name the new variable called `answer`.
 
-![स्क्रीनशॉट](images/fortune-answer.png)
+![screenshot](images/fortune-answer.png)
 
 + Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
 
-![स्क्रीनशॉट](images/fortune-set.png)
+![screenshot](images/fortune-set.png)
 
-जैसा कि आप देख सकते हैं, ब्लॉक में `to` होने का मतलब है कि आप उत्तर को प्रदर्शित करने के लिए सेट कर सकते हैं।
+As you can see, the `to` in the block means that you can set the answer to display.
 
-+ 'Math' (मैथ) पर क्लिक करें और `pick random` (यादृच्छिक रूप से चुनें) ब्लॉक को ड्रैग करके `to` (तक) के आगे ले जाएँ:
++ Click 'Math' and drag a `pick random` block after the `to`:
 
-![स्क्रीनशॉट](images/fortune-random.png)
+![screenshot](images/fortune-random.png)
 
-+ रैंडम ब्लॉक को 0 और 1 के बीच की कोई संख्या चुनने के लिए कहें। यहाँ दिखाया गया है कि आपका कोड कैसा दिखेगा:
++ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
 
-![स्क्रीनशॉट](images/fortune-random-1.png)
+![screenshot](images/fortune-random-1.png)
 
-+ इसके बाद, आप micro:bit पर `नहीं` शब्द केवल तभी प्रदर्शित करना चाहेंगे यदि `if` (यदि) का `उत्तर` 0 है।
++ Next, you want to display the word `No` on the micro:bit only `if` the `answer` is 0.
 
-ऐसा करने के लिए, `if` (यदि) ब्लॉक को अपने `on button A pressed` (बटन A दबाए जाने पर) इवेंट के नीचे ड्रैग करें:
+To do this, drag an `if` block onto the bottom of your `on button A pressed` event:
 
-![स्क्रीनशॉट](images/fortune-if.png)
+![screenshot](images/fortune-if.png)
 
-+ उसके बाद `if` (यदि) में शर्त के रूप में `=` ब्लॉक को खींचें>:
++ Next drag an `=` block as the condition in the `if`:
 
-![स्क्रीनशॉट](images/fortune-equals.png)
+![screenshot](images/fortune-equals.png)
 
-+ अपने `उत्तर` वेरिएबल को खींचकर `if` (यदि) ब्लॉक के बाईं तरफ लाएँ।
++ Drag your `answer` variable onto the left side of the `if` block.
 
-![स्क्रीनशॉट](images/fortune-if-finished.png)
+![screenshot](images/fortune-if-finished.png)
 
-+ `if` (यदि) ब्लॉक के अंदर कोई भी कोड केवल तभी चलेगा यदि `उत्तर` 0 होगा। चूंकि 0 का मतलब `नहीं` है, आइए हम एक `show string` (स्ट्रिंग दिखाएँ) ब्लॉक जोड़ें।
++ Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show string` block.
 
-![स्क्रीनशॉट](images/fortune-no.png)
+![screenshot](images/fortune-no.png)
 
-+ अपने कोड का परीक्षण करें। 
-    + कभी-कभी `उत्तर` 0 होगा, और micro:bit 'नहीं' कहेगा।
-    + कभी-कभी `उत्तर` 1 होगा, और कुछ भी नहीं होगा!
++ Test your code. 
+    + Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
+    + Sometimes the `answer` will be 1, and nothing will happen!
