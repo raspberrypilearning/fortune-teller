@@ -1,4 +1,4 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## Challenge: Multiple answers
 
@@ -10,4 +10,4 @@ Tip: You can right-click on an `if` block to duplicate the block and its content
 
 ![screenshot](images/fortune-random-2.png)
 
-\--- /과제 \---
+\--- /challenge \---
