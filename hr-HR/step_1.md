@@ -1,56 +1,56 @@
-## Uvod
+## Introduction
 
-Šifrirat ćete svoj mikro: bit za čitanje budućnosti! Jednostavno postavite mikro: bitno pitanje i pritisnite gumb da biste saznali odgovor!
+You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
 
-**Uputa**: Ako čitate ovaj Internet, pitajte micro: bit ispod pitanja i pritisnite **A** da biste dobili odgovor!
+**Instructions**: If you're reading this online, ask the micro:bit below a question and press **A** to get your answer!
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Dodatne informacije za voditelje kluba
+### Additional information for club leaders
 
-Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za voditelja kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom će se projektu djeca naučiti kako iskoristiti odabir tako što će napraviti „prodavača sreće”. Vrećar će raditi poput čarobne 8-kuglice i korisniku će dati odgovor na pitanje koje mu postavi mikro: bit.
+In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
 
-## Resursi
+## Resources
 
-Za ovaj projekt treba upotrijebiti mikrobitni uređivač [MakeCode (PXT)](http://jumpto.cc/pxt-new).
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-Dovršenu verziju ovog projekta možete pronaći na [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), a sastavljenu .hex datoteku možete preuzeti klikom na vezu 'Preuzmi projektne materijale' za ovaj projekt , koji sadrži:
+You can find a completed version of this project at [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * FortuneTeller.hex
 
-## Ishodi učenja
+## Learning Objectives
 
-* Odabir `ako je` blok;
-* Blok `slučajnih`.
+* Selection `if` blocks;
+* The `random` block.
 
-Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) nastavnog plana i programa:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Izazovi
+## Challenges
 
-* "Višestruki odgovori" - objedinjavanje upotrebe `ako` blokira, dodavanjem odgovora "Ne" i "Ponovi ponovo".
-* "Shake your micro: bit" - Protresite micro: bit umjesto da pritisnete gumb.
+* "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
+* "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Materijali projekta
+## title: Project materials
 
-## Resursi za voditelja kluba
+## Club leader resources
 
-* [online završen projekt](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
-* [.hex projektnu datoteku za prijenos na vaš micro: bit](resources/microbit-Fortune-Teller.hex)
+* [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
 
 \--- /collapse \---
