@@ -14,8 +14,8 @@ technologies: microbit
 site_areas: prosiectau
 hardware: microbit
 software: ''
-version: 3
-last_tested: 2017-01-01
+version: 3.0.1
+last_tested: 2019-02-28
 steps:
   - 
     title: Cyflwyniad
