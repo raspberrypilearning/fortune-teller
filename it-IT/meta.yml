@@ -11,14 +11,14 @@ description: Use your micro:bit to read the future!
 original_url: https://codeclubprojects.org/en-GB/microbit/fortune-teller
 interests: ''
 technologies: microbit
-site_areas: progetti
+site_areas: projects
 hardware: microbit
 software: ''
 version: 3.0.1
 last_tested: 2019-02-28
 steps:
   - 
-    title: Introduzione
+    title: Introduction
   - 
     title: Scrolling text
   - 
