@@ -1,13 +1,13 @@
-## टेक्स्ट स्क्रॉल करना
+## Scrolling text
 
-आइए हम आपके micro:bit पर कुछ पाठ निर्देशों को स्क्रॉल करके शुरू करें।
+Let's start by scrolling some text instructions on your micro:bit.
 
-+ MakeCode (PXT) संपादक में एक नया प्रोजेक्ट शुरू करने के लिए <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> पर जाएंँ। अपने नए प्रोजेक्ट का नाम 'भाग्य वाचक' रखें।
++ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
 
-आप `forever` (हमेशा के लिए) ब्लॉक को पैलेट पर खींचकर हटा सकते हैं, आपको इस परियोजना के लिए इसकी आवश्यकता नहीं है।
+You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
 
-+ अपने `start` (आरंभ) ब्लॉक के अंदर एक `show string` (स्ट्रिंग दिखाएँ) ब्लॉक खींचें।
++ Drag a `show string` block inside your `start` block.
 
-![स्क्रीनशॉट](images/fortune-press-a.png)
+![screenshot](images/fortune-press-a.png)
 
-+ अपने कोड का परीक्षण करें। आप इसका परीक्षण एम्यूलेटर में या micro:bit पर भी कर सकते हैं।
++ Test out your code. You can test it out in the emulator or on the micro:bit itself.
