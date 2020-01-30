@@ -1,56 +1,56 @@
-## परिचय
+## Introduction
 
-भविष्य को पढ़ने के लिए आप अपने micro:bit को कोड करने जा रहे हैं! बस micro:bit से एक प्रश्न पूछें, और अपना उत्तर पता करने के लिए एक बटन दबाएँ!
+You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
 
-**निर्देश**: यदि आप इसे ऑनलाइन पढ़ रहे हैं, तो नीचे micro:bit से एक प्रश्न पूछें और अपना उत्तर पाने के लिए **A**दबाएँ!
+**Instructions**: If you're reading this online, ask the micro:bit below a question and press **A** to get your answer!
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### क्लब लीडरों के लिए अतिरिक्त जानकारी
+### Additional information for club leaders
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/fortune-teller/print) का उपयोग करें।
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
 
 ## \--- collapse \---
 
-## title: क्लब नेता नोट्स
+## title: Club leader notes
 
-## परिचय:
+## Introduction:
 
-इस प्रोजेक्ट में, बच्चे यह सीखेंगे कि 'भाग्य वाचक' बनाकर चयन का उपयोग कैसे करें। भाग्यवाचक मैजिक 8-बॉल की तरह काम करेगा, और उपयोगकर्ता micro:bit से जो प्रश्न पूछेंगे वह उनका उत्तर देगा।
+In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
 
-## संसाधन
+## Resources
 
-इस प्रोजेक्ट के लिए, [MakeCode (PXT)](http://jumpto.cc/pxt-new) माइक्रोबिट संपादक का उपयोग किया जाना चाहिए।
+For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
-आप इस प्रोजेक्ट का पूर्ण किया गया संस्करण [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995) पर प्राप्त कर सकते हैं, और संकलित .hex फाइल 'Download Project Materials' ('प्रोजेक्ट सामग्री डाउनलोड करें') लिंक पर क्लिक करके डाउनलोड की जा सकती है, जिसमें शामिल है:
+You can find a completed version of this project at [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
 * FortuneTeller.hex
 
-## अध्ययन के उद्देश्य
+## Learning Objectives
 
-* `if` (यदि) ब्लॉकों का चयन;
-* `random` (यादृच्छिक) ब्लॉक।
+* Selection `if` blocks;
+* The `random` block.
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों के पहलुओं को पूरा करता है:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## चुनौतियाँ
+## Challenges
 
-* "एकाधिक उत्तर" - `if` (यदि) ब्लॉकों के उपयोग को समेकित करना, 'नहीं' और 'फिर से पूछें' उत्तरों को जोड़कर।
-* "अपने micro:bit को हिलाएँ" - बटन दबाने के बजाय micro:bit को हिलाएँ।
+* "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
+* "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: प्रोजेक्ट सामग्री
+## title: Project materials
 
-## क्लब नेता संसाधन
+## Club leader resources
 
-* [ऑनलाइन पूर्ण प्रोजेक्ट](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
-* [आपके micro:bit पर स्थानांतरित करने के लिए.hex प्रोजेक्ट फ़ाइल](resources/microbit-Fortune-Teller.hex)
+* [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
 
 \--- /collapse \---
