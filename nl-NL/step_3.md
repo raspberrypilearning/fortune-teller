@@ -1,51 +1,51 @@
-## Een beslissing nemen
+## Making a decision
 
-Laten we je micro:bit nemen om een beslissing te nemen door willekeurig een getal te kiezen (`0` voor 'Nee' en `1` voor 'Ja').
+Let's get your micro:bit to make a decision by randomly choosing a number (`0` for 'No' and `1` for 'Yes').
 
-+ Voeg een nieuw `wanneer knop A wordt ingedrukt` blok toe aan je code.
++ Add a new `on button A pressed` event to your code.
 
-![schermafbeelding](images/fortune-on-a-pressed.png)
+![screenshot](images/fortune-on-a-pressed.png)
 
-+ Laten we een nieuwe variabele maken om het antwoord op te slaan. Klik op 'Variables' en vervolgens op 'Make a variable'.
++ Let's create a new variable to store the answer. Click the 'Variables' and then click 'Make a variable'.
 
-![schermafbeelding](images/fortune-variables.png)
+![screenshot](images/fortune-variables.png)
 
-+ Geef de nieuwe variabele de naam `antwoord`.
++ Name the new variable called `answer`.
 
-![schermafbeelding](images/fortune-answer.png)
+![screenshot](images/fortune-answer.png)
 
-+ Sleep een `stel in op` blok van Variables in je `wanneer knop A wordt ingedrukt` blok en selecteer de `antwoord` variabele.
++ Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
 
-![schermafbeelding](images/fortune-set.png)
+![screenshot](images/fortune-set.png)
 
-Zoals je kunt zien, betekent het `op` in het blok dat je het antwoord kunt instellen.
+As you can see, the `to` in the block means that you can set the answer to display.
 
-+ Klik op 'Rekenen' en sleep een `kies willekeurig` blok na de `op`:
++ Click 'Math' and drag a `pick random` block after the `to`:
 
-![schermafbeelding](images/fortune-random.png)
+![screenshot](images/fortune-random.png)
 
-+ Vertel het random blok om een getal tussen 0 en 1 te kiezen. Zo zou de code eruit moeten zien:
++ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
 
-![schermafbeelding](images/fortune-random-1.png)
+![screenshot](images/fortune-random-1.png)
 
-+ Vervolgens wil je het woord `Nee` op de micro:bit tonen alleen `als` het `antwoord` 0 is.
++ Next, you want to display the word `No` on the micro:bit only `if` the `answer` is 0.
 
-Sleep hiervoor een `als` blok naar de onderkant van je `wanneer knop A wordt ingedrukt` gebeurtenis:
+To do this, drag an `if` block onto the bottom of your `on button A pressed` event:
 
-![schermafbeelding](images/fortune-if.png)
+![screenshot](images/fortune-if.png)
 
-+ Sleep vervolgens een `=` blok als de voorwaarde in de `als`:
++ Next drag an `=` block as the condition in the `if`:
 
-![schermafbeelding](images/fortune-equals.png)
+![screenshot](images/fortune-equals.png)
 
-+ Sleep je `antwoord` variabele naar de linkerkant van het `als` blok.
++ Drag your `answer` variable onto the left side of the `if` block.
 
-![schermafbeelding](images/fortune-if-finished.png)
+![screenshot](images/fortune-if-finished.png)
 
-+ Alle code binnen het `als` blok wordt alleen uitgevoerd als het `antwoord` 0 is. Als 0 `Nee` is, laten we een `toon tekens` blok toevoegen.
++ Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show string` block.
 
-![schermafbeelding](images/fortune-no.png)
+![screenshot](images/fortune-no.png)
 
-+ Test je code. 
-    + Soms zal het `antwoord` 0 zijn, en de micro:bit moet dan 'Nee' zeggen.
-    + Soms zal het `antwoord` 1 zijn, en er zal niets gebeuren!
++ Test your code. 
+    + Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
+    + Sometimes the `answer` will be 1, and nothing will happen!
