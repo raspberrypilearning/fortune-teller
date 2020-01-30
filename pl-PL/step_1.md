@@ -1,4 +1,4 @@
-## Wprowadzenie
+## Introduction
 
 You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
 
@@ -8,19 +8,19 @@ You are going to code your micro:bit to read the future! Simply ask the micro:bi
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Dodatkowe informacje dla prowadzących klub
+### Additional information for club leaders
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
 
 ## \--- collapse \---
 
-## title: Notatki dla liderów klubów
+## title: Club leader notes
 
-## Wprowadzenie:
+## Introduction:
 
 In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
 
-## Zasoby
+## Resources
 
 For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
 
@@ -28,16 +28,16 @@ You can find a completed version of this project at [makecode.microbit.org/#pub:
 
 * FortuneTeller.hex
 
-## Cele dydaktyczne
+## Learning Objectives
 
 * Selection `if` blocks;
 * The `random` block.
 
-Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Wyzwania
+## Challenges
 
 * "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
 * "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
@@ -46,9 +46,9 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## \--- collapse \---
 
-## title: Materiały do projektu
+## title: Project materials
 
-## Zasoby dla prowadzących klub
+## Club leader resources
 
 * [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
 * [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
