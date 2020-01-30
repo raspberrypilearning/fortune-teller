@@ -8,6 +8,6 @@ You can delete the `forever` block by dragging it over the palette, you don't ne
 
 + Drag a `show string` block inside your `start` block.
 
-![captura de ecrã](images/fortune-press-a.png)
+![screenshot](images/fortune-press-a.png)
 
 + Test out your code. You can test it out in the emulator or on the micro:bit itself.
