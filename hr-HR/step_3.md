@@ -1,51 +1,51 @@
-## Donošenje odluke
+## Making a decision
 
-Donosimo vaš mikro: bit za donošenje odluke nasumičnim odabirom broja (`0` za 'Ne' i `1` za 'Da').
+Let's get your micro:bit to make a decision by randomly choosing a number (`0` for 'No' and `1` for 'Yes').
 
-+ Dodajte novi `na gumbu Pritisnuti` događaj u svoj kôd.
++ Add a new `on button A pressed` event to your code.
 
 ![screenshot](images/fortune-on-a-pressed.png)
 
-+ Kreirajmo novu varijablu za pohranjivanje odgovora. Kliknite "Varijable", a zatim kliknite "Uradi varijablu".
++ Let's create a new variable to store the answer. Click the 'Variables' and then click 'Make a variable'.
 
 ![screenshot](images/fortune-variables.png)
 
-+ Imenujte novu varijablu koja se zove `odgovor`.
++ Name the new variable called `answer`.
 
 ![screenshot](images/fortune-answer.png)
 
-+ Povucite blok `skupa` iz varijable u svoj gumb `on Pritisnite pritisnuti` blok i odaberite varijablu `odgovora`.
++ Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
 
-![snimka zaslona](images/fortune-set.png)
+![screenshot](images/fortune-set.png)
 
-Kao što vidite, `do` u bloku znači da možete postaviti odgovor na prikaz.
+As you can see, the `to` in the block means that you can set the answer to display.
 
-+ Kliknite „Math” i povucite `pokupiti slučajan` blok nakon `kako bi`:
++ Click 'Math' and drag a `pick random` block after the `to`:
 
 ![screenshot](images/fortune-random.png)
 
-+ Recite slučajnom bloku da odaberete broj između 0 i 1. Ovako bi tvoj kôd trebao izgledati:
++ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
 
 ![screenshot](images/fortune-random-1.png)
 
-+ Zatim želite prikazati riječ `No` na mikro: malo samo `ako` `odgovor` 0.
++ Next, you want to display the word `No` on the micro:bit only `if` the `answer` is 0.
 
-Da biste to učinili, povucite `ako` blok na dnu `na tipku A pritisne` događaj:
+To do this, drag an `if` block onto the bottom of your `on button A pressed` event:
 
 ![screenshot](images/fortune-if.png)
 
-+ Zatim povucite blok `=` kao uvjet u `ako je`:
++ Next drag an `=` block as the condition in the `if`:
 
 ![screenshot](images/fortune-equals.png)
 
-+ Povucite varijablu `odgovor` na lijevu stranu bloka `ako`.
++ Drag your `answer` variable onto the left side of the `if` block.
 
 ![screenshot](images/fortune-if-finished.png)
 
-+ Bilo koji kôd unutar `ako je` blok pokrenut će se samo ako je `odgovora` 0. Kako je `Ne`, dodamo blok `prikazivanja`.
++ Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show string` block.
 
 ![screenshot](images/fortune-no.png)
 
-+ Testiraj svoj kôd. 
-    + Ponekad će `odgovor` biti 0, a mikro: bit treba reći „Ne“.
-    + Ponekad `odgovor` će biti 1, a ništa se neće dogoditi!
++ Test your code. 
+    + Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
+    + Sometimes the `answer` will be 1, and nothing will happen!
