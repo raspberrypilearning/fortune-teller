@@ -1,4 +1,4 @@
-скриншот
+\--- challenge \---
 
 ## Challenge: Shake your micro:bit
 
