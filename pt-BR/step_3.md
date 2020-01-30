@@ -24,7 +24,7 @@ As you can see, the `to` in the block means that you can set the answer to displ
 
 ![screenshot](images/fortune-random.png)
 
-+ Tell the random block to choose a number between 0 and 1. Veja como seu código deve ficar:
++ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
 
 ![screenshot](images/fortune-random-1.png)
 
