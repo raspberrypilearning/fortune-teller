@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## चुनौती: अपने micro:bit को हिलाएँ
+## Challenge: Shake your micro:bit
 
-क्या आप अपने micro:bit को कोड कर सकते हैं कि वह किसी बटन को दबाए जाने के बजाए हिलाने पर निर्णय ले?
+Can you code your micro:bit to make a decision when it is shaken instead of when a button is pressed?
 
 \--- /challenge \---
