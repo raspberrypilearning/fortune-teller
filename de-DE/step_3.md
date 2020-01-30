@@ -4,7 +4,7 @@ Let's get your micro:bit to make a decision by randomly choosing a number (`0` f
 
 + Add a new `on button A pressed` event to your code.
 
-![Screenshot](images/fortune-on-a-pressed.png)
+![screenshot](images/fortune-on-a-pressed.png)
 
 + Let's create a new variable to store the answer. Click the 'Variables' and then click 'Make a variable'.
 
@@ -16,27 +16,27 @@ Let's get your micro:bit to make a decision by randomly choosing a number (`0` f
 
 + Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
 
-![Screenshot](images/fortune-set.png)
+![screenshot](images/fortune-set.png)
 
 As you can see, the `to` in the block means that you can set the answer to display.
 
 + Click 'Math' and drag a `pick random` block after the `to`:
 
-![Screenshot](images/fortune-random.png)
+![screenshot](images/fortune-random.png)
 
-+ Tell the random block to choose a number between 0 and 1. So sollte dein Code aussehen:
++ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
 
-![Screenshot](images/fortune-random-1.png)
+![screenshot](images/fortune-random-1.png)
 
 + Next, you want to display the word `No` on the micro:bit only `if` the `answer` is 0.
 
 To do this, drag an `if` block onto the bottom of your `on button A pressed` event:
 
-![Screenshot](images/fortune-if.png)
+![screenshot](images/fortune-if.png)
 
 + Next drag an `=` block as the condition in the `if`:
 
-![Screenshot](images/fortune-equals.png)
+![screenshot](images/fortune-equals.png)
 
 + Drag your `answer` variable onto the left side of the `if` block.
 
@@ -44,7 +44,7 @@ To do this, drag an `if` block onto the bottom of your `on button A pressed` eve
 
 + Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show string` block.
 
-![Screenshot](images/fortune-no.png)
+![screenshot](images/fortune-no.png)
 
 + Test your code. 
     + Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
