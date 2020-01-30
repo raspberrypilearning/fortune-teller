@@ -18,7 +18,7 @@ version: 3.0.1
 last_tested: 2019-02-28
 steps:
   - 
-    title: Jogo de calculo mental
+    title: Introduction
   - 
     title: Scrolling text
   - 
