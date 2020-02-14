@@ -1,0 +1,24 @@
+---
+hero_image: images/fortune-teller.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Waarzegger
+description: 'Gebruik je micro: bit om de toekomst te lezen!'
+original_url: https://codeclubprojects.org/en-GB/microbit/fortune-teller
+interests: ''
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 3.0.1
+last_tested: 2019-02-28
+steps:
+  - title: Inleiding
+  - title: Scrollende tekst
+  - title: Een beslissing nemen
+  - title: 'Uitdaging: meerdere antwoorden'
+  - title: 'Uitdaging: schud je micro:bit'
