@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Shake your micro:bit
+## Uitdaging: schud je micro:bit
 
-Can you code your micro:bit to make a decision when it is shaken instead of when a button is pressed?
+Kunt je je micro:bit coderen om een beslissing te nemen wanneer deze wordt geschud in plaats van wanneer een knop wordt ingedrukt?
 
 \--- /challenge \---
