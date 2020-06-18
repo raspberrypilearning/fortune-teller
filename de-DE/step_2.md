@@ -1,13 +1,13 @@
-## Scrolling text
+## Lauftext
 
-Let's start by scrolling some text instructions on your micro:bit.
+Beginnen wir mit dem Scrollen einiger Textanweisungen auf dem micro:bit.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
++ Rufe <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> auf, um ein neues Projekt im MakeCode (PXT) -Editor zu starten. Nenne dein neues Projekt "Wahrsager".
 
-You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
+Du kannst den `dauerhaft` Block entfernen, indem du ihn über die Palette ziehst. Wir brauchen ihn nicht für dieses Projekt.
 
-+ Drag a `show string` block inside your `start` block.
++ Unter "Grundlagen" findest du einen `zeige Text` Block. Ziehe ihn in deinen `beim Start` Block.
 
 ![screenshot](images/fortune-press-a.png)
 
-+ Test out your code. You can test it out in the emulator or on the micro:bit itself.
++ Teste deinen Code. Du kannst es entweder im Emulator oder auf deinem micro:bit testen.
