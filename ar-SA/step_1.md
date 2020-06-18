@@ -1,56 +1,56 @@
-## Introduction
+## المقدمة
 
-You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
+سوف تقوم ببرمجة المايكروبيت (micro:bit) لقراءة المستقبل! ببساطة اسأل المايكروبيت (micro:bit) سؤالا، واضغط على زر لمعرفة الإجابة!
 
-**Instructions**: If you're reading this online, ask the micro:bit below a question and press **A** to get your answer!
+**تعليمات **: إذا كنت تقرأ هذا عبر الإنترنت، اسأل المايكروبيت (micro:bit) ادناه سؤالاً واضغط **A** للحصول على إجابتك!
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة ملائمة للطباعة ](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ملاحظات قادة النادي
 
-## Introduction:
+## المقدمة:
 
-In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
+في هذا المشروع، سيتعلم الأطفال كيفية استخدام الاختيار، عن طريق إنشاء 'قارئ المستقبل'. سيعمل قارئ المستقبل مثل السحر 8 كرات، وسيعطي المستخدم الإجابة على سؤال يسألونه المايكروبيت (micro:bit).
 
-## Resources
+## الموارد
 
-For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
+لهذا المشروع، يجب استخدام [MakeCode (PXT)](http://jumpto.cc/pxt-new) محرر المايكروبيت (micro: bit).
 
-You can find a completed version of this project at [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+يمكنك العثور على نسخة كاملة من هذا المشروع على [ makecode.microbit.org/#pub:18828-96734-17356-00995 ](https://makecode.microbit.org/#pub:18828-96734-17356-00995) ، ويمكن تنزيل ملف .xx المترجمة بالنقر على رابط "تنزيل مواد المشروع" لهذا المشروع ، والذي يحتوي :
 
 * FortuneTeller.hex
 
-## Learning Objectives
+## أهداف التعلم
 
-* Selection `if` blocks;
-* The `random` block.
+* اختيار التعليمة البرمجية`if`;
+* التعليمة`random`.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## التحديات
 
-* "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
-* "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
+* "إجابات متعددة" - لتوحيد استخدام التعليمة`if` بإضافة إجابتين "لا" و "اسأل مرة أخرى".
+* هَزّ المايكروبيت (micro:bit)- هَزّ المايكروبيت(micro:bit)بدلاً من الضغط على زر.
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- /collapse \---
 
-## title: Project materials
+## title: مواد المشروع
 
-## Club leader resources
+## موارد قادة النادي
 
-* [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
-* [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
+* [مشروع مكتمل عبر الإنترنت](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
+* [ملف مشروع.hex للتحويل إلى المايكروبيت (micro:bit) الخاص بك](resources/microbit-Fortune-Teller.hex)
 
 \--- /collapse \---
