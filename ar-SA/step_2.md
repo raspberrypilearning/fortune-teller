@@ -1,13 +1,13 @@
-## Scrolling text
+## تمرير النص
 
-Let's start by scrolling some text instructions on your micro:bit.
+لنبدأ بتمرير بعض الإرشادات النصية على micro: bit.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
++ اذهب إلى <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> لبدء مشروع جديد في محرر MakeCode (PXT). سمي مشروعك الجديد "قارئ المستقبل".
 
-You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
+يمكنك حذف ` إلى الأبد ` عن طريق سحبها فوق اللوحة ، فأنت لا تحتاج اليها لهذا المشروع.
 
-+ Drag a `show string` block inside your `start` block.
++ اسحب التعليمة` إظهار النص` داخل كتلة `start` الخاصة بك.
 
-![screenshot](images/fortune-press-a.png)
+![لقطة شاشة](images/fortune-press-a.png)
 
-+ Test out your code. You can test it out in the emulator or on the micro:bit itself.
++ اختبر مشروعك. يمكنك اختباره في المحاكي أو على المايكروبيت (micro:bit) نفسه.
