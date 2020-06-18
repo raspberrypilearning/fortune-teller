@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Multiple answers
+## Herausforderung: Mehrere Antworten
 
-Can you add code so that 'Yes' is displayed on your micro:bit **if** the answer is 1? You can even change the text shown to something more interesting than just 'Yes' and 'No'!
+Kannst du einen Code hinzufügen, sodass "Ja" auf deinem micro:bit angezeigt wird, sobald die Antwort-Variable auf **1** gesetzt wird? Du kannst den Text auch beliebig verändern, anstatt nur "Ja" und "Nein" auszugeben!
 
-You can even make your micro:bit say something like 'Maybe' or 'Ask again' if the answer is 2. To get this working, you'll also need to change your code to choose a random number between 0 and 2!
+Du kannst deinem micro:bit sogar beibringen "Vielleicht" oder "Frag noch mal" zu sagen, wenn die Antwort-Variable auf 2 steht. Hierfür musst du aber deinen Code ändern, sodass die Antwort-Variable auf eine Zufallszahl zwischen 0 und 2 gesetzt wird.
 
-Tip: You can right-click on an `if` block to duplicate the block and its contents.
+Tipp: Du kannst auf einen `wenn ... dann` Block rechts-klicken um ihn mitsamt Inhalt zu kopieren.
 
-![screenshot](images/fortune-random-2.png)
+![Screenshot](images/fortune-random-2.png)
 
 \--- /challenge \---
