@@ -1,6 +1,6 @@
 ## Scrollende tekst
 
-Laten we beginnen door enkele tekstinstructies op je micro:bit te laten scrollen.
+We beginnen door enkele tekstinstructies op je micro:bit te laten scrollen.
 
 + Ga naar <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> om een ​​nieuw project te starten in de MakeCode (PXT) editor. Noem je nieuwe project 'Waarzegger'.
 
