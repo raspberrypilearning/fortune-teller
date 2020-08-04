@@ -14,13 +14,13 @@ Hagamos que tu micro:bit tome una decisión al azar eligiendo un número (`0` pa
 
 ![captura de pantalla](images/fortune-answer.png)
 
-+ Arrastra un bloque `set` de las Variables a tu bloque `al presionarse el botón A` y selecciona la variable `respuesta`.
++ Arrastra un bloque `establecer` de las Variables a tu bloque `al presionarse el botón A` y selecciona la variable `respuesta`.
 
 ![captura de pantalla](images/fortune-set.png)
 
-Como puedes ver, el `to` en el bloque significa que puedes establecer la respuesta al monitor.
+Como puedes ver, el `para` en el bloque significa que puedes establecer la respuesta al monitor.
 
-+ Haz clic en 'Matemática' y arrastra un bloque `pick random` después de `to`:
++ Haz clic en 'Matemática' y arrastra un bloque `escoger al azar` después de `para`:
 
 ![captura de pantalla](images/fortune-random.png)
 
@@ -42,7 +42,7 @@ Para hacer esto, arrastra un bloque `si` a la parte baja de tu evento `al presio
 
 ![captura de pantalla](images/fortune-if-finished.png)
 
-+ Cualquier código dentro del bloque `si` se ejecutará si la `respuesta` es 0. Como 0 es `No`, vamos a añadir un bloque `show string`.
++ Cualquier código dentro del bloque `si` se ejecutará si la `respuesta` es 0. Como 0 es `No`, vamos a añadir un bloque `mostrar cadena`.
 
 ![captura de pantalla](images/fortune-no.png)
 
