@@ -31,7 +31,7 @@ Puedes encontrar una versión completa de este proyecto en [makecode.microbit.or
 ## Objetivos del Aprendizaje
 
 * Bloques de selección `if`;
-* El bloque `random`.
+* El bloque `aleatorio`.
 
 Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
