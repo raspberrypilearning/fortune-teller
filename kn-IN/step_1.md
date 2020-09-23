@@ -2,7 +2,7 @@
 
 ಭವಿಷ್ಯವನ್ನು ಓದಲು ನಿಮ್ಮ micro:bit ಅನ್ನು ನೀವು code ಮಾಡಲು ಹೊರಟಿದ್ದೀರಿ! micro:bit ಗೆ ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿ, ಮತ್ತು ಉತ್ತರವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಬಟನ್ ಒತ್ತಿರಿ!
 
-** ಸೂಚನೆಗಳು **: ನೀವು ಇದನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಓದುತ್ತಿದ್ದರೆ, micro:bit ಅನ್ನು ಪ್ರಶ್ನೆ ಕೇಳಿ ಮತ್ತು ಉತ್ತರವನ್ನು ಪಡೆಯಲು** A ** ಒತ್ತಿ !
+**ಸೂಚನೆಗಳು**: ನೀವು ಇದನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಓದುತ್ತಿದ್ದರೆ, micro:bit ಅನ್ನು ಪ್ರಶ್ನೆ ಕೇಳಿ ಮತ್ತು ಉತ್ತರವನ್ನು ಪಡೆಯಲು**A** ಒತ್ತಿ!
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
@@ -30,7 +30,7 @@
 
 ## ಕಲಿಕೆ ಉದ್ದೇಶಗಳು
 
-* ಆಯ್ಕೆ ` if ` block ಗಳು;
+* ಆಯ್ಕೆ `if` block ಗಳು;
 * `random` block.
 
 ಈ ಯೋಜನೆಯು [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ಎಳೆಗಳಿಂದ ಕೆಳಗಿನ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
@@ -39,7 +39,7 @@
 
 ## ಸವಾಲುಗಳು
 
-* "ಬಹು ಉತ್ತರಗಳು" - 'ಇಲ್ಲ' ಮತ್ತು 'ಮತ್ತೆ ಕೇಳಿ' ಉತ್ತರಗಳನ್ನು ಸೇರಿಸುವ ಮೂಲಕ, `if ` block ಅನ್ನು ಬಳಕೆ ಮಾಡಿ.
+* "ಬಹು ಉತ್ತರಗಳು" - 'ಇಲ್ಲ' (No) ಮತ್ತು 'ಮತ್ತೆ ಕೇಳಿ' (Ask again) ಉತ್ತರಗಳನ್ನು ಸೇರಿಸುವ ಮೂಲಕ, `if ` block ಅನ್ನು ಬಳಕೆ ಮಾಡಿ.
 * "ನಿಮ್ಮ micro:bit ಅನ್ನು ಅಲ್ಲಾಡಿಸಿ" - button ಒತ್ತುವ ಬದಲು micro:bit ಅನ್ನು ಅಲ್ಲಾಡಿಸಿ.
 
 \--- /collapse \---
@@ -50,7 +50,7 @@
 
 ## ಕ್ಲಬ್ ನಾಯಕ ಸಂಪನ್ಮೂಲಗಳು
 
-* [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
-* [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
+* [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ ಪ್ರಾಜೆಕ್ಟ್](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
+* [.hex ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್ ಅನ್ನು ನಿಮ್ಮ micro:bit ‌ಗೆ ವರ್ಗಾಯಿಸಲು](resources/microbit-Fortune-Teller.hex)
 
 \--- /collapse \---
