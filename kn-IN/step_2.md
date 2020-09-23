@@ -4,7 +4,7 @@
 
 + MakeCode (PXT) ಎಡಿಟರ್ ನಲ್ಲಿ ಹೊಸ ಯೋಜನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a>ಗೆ ಹೋಗಿ. ನಿಮ್ಮ ಹೊಸ ಯೋಜನೆಯನ್ನು 'Fortune Teller' ಎಂದು ಕರೆಯಿರಿ. 
 
-` forever ` block ಅನ್ನು ಪ್ಯಾಲೆಟ್ ಮೇಲೆ ಎಳೆದು ಅದನ್ನು ತೆಗೆಯಿರಿ. ನಿಮಗೆ ಅದರ ಅವಶ್ಯಕತೆ ಇಲ್ಲ.
+`forever` block ಅನ್ನು ಪ್ಯಾಲೆಟ್ ಮೇಲೆ ಎಳೆದು ಅದನ್ನು ತೆಗೆಯಿರಿ, ನಿಮಗೆ ಅದರ ಅವಶ್ಯಕತೆ ಇಲ್ಲ.
 
 + `start` block ಒಳಗೆ ಒಂದು `show string` block ಅನ್ನು ಎಳೆಯಿರಿ.
 
