@@ -6,7 +6,7 @@ We gaan je micro:bit een beslissing laten nemen door willekeurig een getal te ki
 
 ![schermafbeelding](images/fortune-on-a-pressed.png)
 
-+ We gaan een nieuwe variabele maken om het antwoord op te slaan. Klik op 'Variables' en vervolgens op 'Make a variable'.
++ We gaan een nieuwe variabele maken om het antwoord op te slaan. Klik op 'Variabelen' en vervolgens op 'Maak een variabele'.
 
 ![schermafbeelding](images/fortune-variables.png)
 
