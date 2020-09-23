@@ -14,7 +14,7 @@ Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](h
 
 ## \--- collapse \---
 
-## titel: Clubleider notities
+## title: Clubleider notities
 
 ## Inleiding:
 
