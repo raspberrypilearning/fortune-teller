@@ -20,7 +20,7 @@
 
 ನೀವು ನೋಡುವಂತೆ, `to` block ನಲ್ಲಿದ್ದರೆ ,ನೀವು ಉತ್ತರವನ್ನು display ಗೆ ಹೊಂದಿಸಬಹುದು ಎಂದರ್ಥ.
 
-+ 'Math' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ` pick a random ` block ಅನ್ನು `to` ಆದಮೇಲೆ ಎಳಿಯಿರಿ:
++ 'Math' ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು `pick a random` block ಅನ್ನು `to` ಆದಮೇಲೆ ಎಳಿಯಿರಿ:
 
 ![screenshot](images/fortune-random.png)
 
