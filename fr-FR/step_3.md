@@ -1,51 +1,51 @@
-## Making a decision
+## Prendre un décision
 
-Let's get your micro:bit to make a decision by randomly choosing a number (`0` for 'No' and `1` for 'Yes').
+Laissons le micro:bit prendre une décision en choisissant un nombre au hasard (`0` pour "Non" et `1` pour "Oui").
 
-+ Add a new `on button A pressed` event to your code.
++ Ajoute un nouvel événement `lorsque le bouton A est pressé` dans ton code.
 
-![screenshot](images/fortune-on-a-pressed.png)
+![capture d'écran](images/fortune-on-a-pressed.png)
 
-+ Let's create a new variable to store the answer. Click the 'Variables' and then click 'Make a variable'.
++ Crée une variable pour stocker la réponse. Clique sur « Variables », puis sur « Créer une variable ».
 
-![screenshot](images/fortune-variables.png)
+![capture d’écran](images/fortune-variables.png)
 
-+ Name the new variable called `answer`.
++ Nomme la nouvelle variable `réponse`.
 
-![screenshot](images/fortune-answer.png)
+![capture d'écran](images/fortune-answer.png)
 
-+ Drag a `set` block from Variables into your `on button A pressed` block and select the `answer` variable.
++ Place un bloc `définir à` depuis Variables dans ton bloc `lorsque le bouton A est pressé`, et sélectionne la variable `réponse`.
 
-![screenshot](images/fortune-set.png)
+![capture d'écran](images/fortune-set.png)
 
-As you can see, the `to` in the block means that you can set the answer to display.
+Comme tu peux le voir, le `à` dans le bloc signifie que tu dois régler la réponse à afficher.
 
-+ Click 'Math' and drag a `pick random` block after the `to`:
++ Clique sur « Math » et fais glisser un bloc `choisir au hasard` après le `à` :
 
-![screenshot](images/fortune-random.png)
+![capture d'écran](images/fortune-random.png)
 
-+ Tell the random block to choose a number between 0 and 1. Here's how your code should look:
++ Configure le bloc `choisir au hasard` pour qu'il choisisse un nombre entre 0 et 1. Voici à quoi devrait ressembler ton code :
 
-![screenshot](images/fortune-random-1.png)
+![capture d'écran](images/fortune-random-1.png)
 
-+ Next, you want to display the word `No` on the micro:bit only `if` the `answer` is 0.
++ Ensuite, tu veux afficher le mot `Non` sur le micro:bit seulement `si` la `réponse` vaut 0.
 
-To do this, drag an `if` block onto the bottom of your `on button A pressed` event:
+Pour cela, place un bloc `si` tout en bas de l'événement `lorsque le bouton A est pressé` :
 
-![screenshot](images/fortune-if.png)
+![capture d'écran](images/fortune-if.png)
 
-+ Next drag an `=` block as the condition in the `if`:
++ Ensuite, fais glisser un bloc `=` comme condition dans le bloc `si` :
 
-![screenshot](images/fortune-equals.png)
+![capture d'écran](images/fortune-equals.png)
 
-+ Drag your `answer` variable onto the left side of the `if` block.
++ Place ta variable `réponse` dans la partie gauche de la condition du bloc `si`.
 
-![screenshot](images/fortune-if-finished.png)
+![capture d'écran](images/fortune-if-finished.png)
 
-+ Any code inside the `if` block will only run if the `answer` is 0. As 0 is `No`, let's add a `show string` block.
++ Tout code placé à l'intérieur du bloc `si` ne s'exécutera que si la `réponse` vaut 0. Etant donné que le 0 correspond à `Non`, ajoutons un autre bloc `afficher texte`.
 
-![screenshot](images/fortune-no.png)
+![capture d'écran](images/fortune-no.png)
 
-+ Test your code. 
-    + Sometimes the `answer` will be 0, and the micro:bit should say 'No'.
-    + Sometimes the `answer` will be 1, and nothing will happen!
++ Teste ton code. 
+    + Parfois la `réponse` vaudra 0, et le micro:bit devra dire « Non ».
+    + Parfois, la `réponse` sera 1, et rien ne se passera !
