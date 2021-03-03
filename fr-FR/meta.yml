@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Fortune Teller
-description: Use your micro:bit to read the future!
+title: Diseuse de bonne aventure
+description: Utiliser ton micro:bit pour prédire le futur !
 original_url: https://codeclubprojects.org/en-GB/microbit/fortune-teller
 interests: ''
 technologies: microbit
@@ -20,10 +20,10 @@ steps:
   - 
     title: Introduction
   - 
-    title: Scrolling text
+    title: Faire défiler du texte
   - 
-    title: Making a decision
+    title: Prendre une décision
   - 
-    title: 'Challenge: Multiple answers'
+    title: 'Défi : Réponses multiples'
   - 
-    title: 'Challenge: Shake your micro:bit'
+    title: 'Défi : Secouer ton micro:bit'
