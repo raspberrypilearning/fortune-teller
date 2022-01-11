@@ -17,8 +17,10 @@ software: ''
 version: 3.0.1
 last_tested: 2019-02-28
 steps:
-  - title: ಪರಿಚಯ
-  - title: ಸ್ಕ್ರೋಲಿಂಗ್ ಪಠ್ಯ
-  - title: ನಿರ್ಧಾರ ಮಾಡುವುದು
-  - title: 'ಸವಾಲು: ಬಹು ಉತ್ತರಗಳು'
-  - title: 'ಸವಾಲು: ನಿಮ್ಮ micro:bit ಅನ್ನು ಅಲ್ಲಾಡಿಸಿ'
+- title: ಪರಿಚಯ
+  completion: engaged
+- title: ಸ್ಕ್ರೋಲಿಂಗ್ ಪಠ್ಯ
+- title: ನಿರ್ಧಾರ ಮಾಡುವುದು
+- title: 'ಸವಾಲು: ಬಹು ಉತ್ತರಗಳು'
+  completion: internal
+- title: 'ಸವಾಲು: ನಿಮ್ಮ micro:bit ಅನ್ನು ಅಲ್ಲಾಡಿಸಿ'

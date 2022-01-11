@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Cyflwyniad
-  - title: Sgrolio testun
-  - title: Gwneud penderfyniad
-  - title: 'Her: Atebion lluosog'
-  - title: 'Her: Ysgwydwch eich micro:bit'
+- title: Cyflwyniad
+  completion: engaged
+- title: Sgrolio testun
+- title: Gwneud penderfyniad
+- title: 'Her: Atebion lluosog'
+  completion: internal
+- title: 'Her: Ysgwydwch eich micro:bit'

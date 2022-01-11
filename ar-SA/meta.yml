@@ -17,8 +17,10 @@ software: ''
 version: 3.0.1
 last_tested: 2019-02-28
 steps:
-  - title: المقدمة
-  - title: تمرير النص
-  - title: اتخاذ القرار
-  - title: 'التحدي: إجابات متعددة'
-  - title: 'التحدي: هَزّ المايكروبيت(micro:bit)'
+- title: المقدمة
+  completion: engaged
+- title: تمرير النص
+- title: اتخاذ القرار
+- title: 'التحدي: إجابات متعددة'
+  completion: internal
+- title: 'التحدي: هَزّ المايكروبيت(micro:bit)'

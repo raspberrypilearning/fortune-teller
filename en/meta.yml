@@ -16,9 +16,11 @@ hardware: microbit
 software: ''
 version: 3.0.1
 last_tested: 2019-02-28
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Scrolling text
 - title: Making a decision
 - title: 'Challenge: Multiple answers'
+  completion: internal
 - title: 'Challenge: Shake your micro:bit'

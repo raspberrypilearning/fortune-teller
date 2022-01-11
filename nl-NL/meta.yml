@@ -17,8 +17,10 @@ software: ''
 version: 3.0.1
 last_tested: 2019-02-28
 steps:
-  - title: Inleiding
-  - title: Scrollende tekst
-  - title: Een beslissing nemen
-  - title: 'Uitdaging: meerdere antwoorden'
-  - title: 'Uitdaging: schud je micro:bit'
+- title: Inleiding
+  completion: engaged
+- title: Scrollende tekst
+- title: Een beslissing nemen
+- title: 'Uitdaging: meerdere antwoorden'
+  completion: internal
+- title: 'Uitdaging: schud je micro:bit'

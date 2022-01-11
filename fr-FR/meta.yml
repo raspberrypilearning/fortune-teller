@@ -17,8 +17,10 @@ software: ''
 version: 3.0.1
 last_tested: 2019-02-28
 steps:
-  - title: Introduction
-  - title: Faire défiler du texte
-  - title: Prendre une décision
-  - title: 'Défi : Réponses multiples'
-  - title: 'Défi : Secouer ton micro:bit'
+- title: Introduction
+  completion: engaged
+- title: Faire défiler du texte
+- title: Prendre une décision
+- title: 'Défi : Réponses multiples'
+  completion: internal
+- title: 'Défi : Secouer ton micro:bit'

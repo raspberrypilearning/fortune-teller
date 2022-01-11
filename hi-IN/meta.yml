@@ -17,8 +17,10 @@ software: ''
 version: 3.0.1
 last_tested: 2019-02-28
 steps:
-  - title: परिचय
-  - title: टेक्स्ट स्क्रॉल करना
-  - title: निर्णय लेना
-  - title: 'चुनौती: एकाधिक उत्तर'
-  - title: 'चुनौती: अपने micro:bit को हिलाएँ'
+- title: परिचय
+  completion: engaged
+- title: टेक्स्ट स्क्रॉल करना
+- title: निर्णय लेना
+- title: 'चुनौती: एकाधिक उत्तर'
+  completion: internal
+- title: 'चुनौती: अपने micro:bit को हिलाएँ'
