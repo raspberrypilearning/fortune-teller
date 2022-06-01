@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: El Adivino
-description: '¡Usa tu micro:bit para leer el futuro!'
+description: "¡Usa tu micro:bit para leer el futuro!"
 original_url: https://codeclubprojects.org/en-GB/microbit/fortune-teller
 interests: ''
 technologies: microbit
@@ -17,8 +17,11 @@ software: ''
 version: 3.0.1
 last_tested: 2019-02-28
 steps:
-  - title: Introducción
-  - title: Texto desplazable
-  - title: Tomando una decisión
-  - title: 'Desafío: Respuestas múltiples'
-  - title: 'Desafío: Agita tu micro:bit'
+- title: Introducción
+- title: Texto desplazable
+- title: Tomando una decisión
+  completion:
+  - engaged
+  - internal
+- title: 'Desafío: Respuestas múltiples'
+- title: 'Desafío: Agita tu micro:bit'
