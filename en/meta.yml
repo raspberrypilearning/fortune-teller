@@ -18,9 +18,10 @@ version: 3.0.1
 last_tested: 2019-02-28
 steps:
 - title: Introduction
-  completion: engaged
 - title: Scrolling text
 - title: Making a decision
+  completion:
+  - engaged
+  - internal
 - title: 'Challenge: Multiple answers'
-  completion: internal
 - title: 'Challenge: Shake your micro:bit'

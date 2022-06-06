@@ -18,9 +18,10 @@ version: 3.0.1
 last_tested: 2019-02-28
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Lauftext
 - title: Eine Entscheidung treffen
+  completion:
+  - engaged
+  - internal
 - title: 'Herausforderung: Mehrere Antworten'
-  completion: internal
 - title: 'Herausforderung: Schüttele deinen micro:bit'
