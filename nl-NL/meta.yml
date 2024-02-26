@@ -23,6 +23,9 @@ steps:
     title: Scrollende tekst
   - 
     title: Een beslissing nemen
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Uitdaging: meerdere antwoorden'
   - 
