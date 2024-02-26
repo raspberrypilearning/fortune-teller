@@ -23,6 +23,9 @@ steps:
     title: Faire défiler du texte
   - 
     title: Prendre une décision
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Défi : Réponses multiples'
   - 
