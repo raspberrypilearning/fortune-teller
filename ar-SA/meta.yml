@@ -23,6 +23,9 @@ steps:
     title: تمرير النص
   - 
     title: اتخاذ القرار
+    completion:
+      - engaged
+      - internal
   - 
     title: 'التحدي: إجابات متعددة'
   - 
