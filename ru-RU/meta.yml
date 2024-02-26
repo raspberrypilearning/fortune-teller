@@ -23,6 +23,9 @@ steps:
     title: Scrolling text
   - 
     title: Making a decision
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Challenge: Multiple answers'
   - 
