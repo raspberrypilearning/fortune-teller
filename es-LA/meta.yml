@@ -23,6 +23,9 @@ steps:
     title: Texto desplazable
   - 
     title: Tomando una decisión
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Desafío: Respuestas múltiples'
   - 
