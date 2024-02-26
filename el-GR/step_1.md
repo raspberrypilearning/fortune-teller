@@ -1,56 +1,56 @@
-## Introduction
+## Εισαγωγή
 
-You are going to code your micro:bit to read the future! Simply ask the micro:bit a question, and press a button to find out the answer!
+Θα προγραμματίσεις το micro:bit σου ώστε να προβλέπει το μέλλον! Απλά κάνε μια ερώτηση στο micro:bit και πάτησε ένα κουμπί για να μάθεις την απάντηση!
 
-**Instructions**: If you're reading this online, ask the micro:bit below a question and press **A** to get your answer!
+**Οδηγίες**: Αν διαβάζεις αυτό το κείμενο online, ρώτα το micro:bit που βλέπεις εδώ κάτω μια ερώτηση και πάτησε το **A** για να πάρεις την απάντησή σου!
 
 <div class="trinket" style="width:400px;margin: 0 auto;">
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
 
-### Additional information for club leaders
+### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [Εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/fortune-teller/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Σημειώσεις συντονιστή/τριας ομάδας
 
-## Introduction:
+## Εισαγωγή:
 
-In this project, children will learn how to make use of selection, by making a 'fortune teller'. The fortune teller will work like a magic 8-ball, and will give the user the answer to a question they ask the micro:bit.
+Σε αυτό το έργο, τα παιδιά θα μάθουν πώς να χρησιμοποιούν τη δομή επιλογής, φτιάχνοντας έναν "μάντη". Ο μάντης θα λειτουργεί σαν κρυστάλλινη σφαίρα και θα δίνει στον χρήστη την απάντηση για την ερώτηση που θα υποβάλει στο micro:bit.
 
-## Resources
+## Πόροι
 
-For this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.
+Γι' αυτό το έργο, θα πρέπει να χρησιμοποιήσεις το περιβάλλον προγραμματισμού [MakeCode (PXT)](http://jumpto.cc/pxt-new) του micro: bit.
 
-You can find a completed version of this project at [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
+Μπορείς να βρεις μια ολοκληρωμένη έκδοση αυτού του έργου στη διεύθυνση [makecode.microbit.org/#pub:18828-96734-17356-00995](https://makecode.microbit.org/#pub:18828-96734-17356-00995) και μπορείς να κατεβάσεις το μεταγλωττισμένο .hex αρχείο κάνοντας κλικ στο σύνδεσμο «Κατέβασμα Υλικού Έργου» για αυτό το έργο, το οποίο περιέχει:
 
 * FortuneTeller.hex
 
-## Learning Objectives
+## Μαθησιακοί Στόχοι
 
-* Selection `if` blocks;
-* The `random` block.
+* Μπλοκ `εάν` για τη δομή επιλογής,˙
+* Το μπλοκ `τυχαία επιλογή`.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Προγράμματος Μαθημάτων Ψηφιακής Δημιουργίας του Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Προκλήσεις
 
-* "Multiple answers" - Consolidating use of `if` blocks, by adding 'No' and 'Ask again' answers.
-* "Shake your micro:bit" - Shake the micro:bit instead of pressing a button.
+* "Πολλαπλές απαντήσεις" - Εμπέδωση της χρήσης των μπλοκ `εάν`, με την προσθήκη των απαντήσεων "Όχι" και "Ξαναρώτα".
+* "Κούνα το micro:bit σου" - Κούνα το micro:bit αντί να πατήσεις κάποιο κουμπί.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Υλικό έργου
 
-## Club leader resources
+## Πόροι συντονιστή/τριας ομάδας
 
-* [online completed project](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
-* [.hex project file to transfer onto your micro:bit](resources/microbit-Fortune-Teller.hex)
+* [ολοκληρωμένο έργο στο Ίντερνετ](https://makecode.microbit.org/#pub:18828-96734-17356-00995)
+* [αρχείο έργου .hex για να το μεταφέρεις στο micro:bit σου](resources/microbit-Fortune-Teller.hex)
 
 \--- /collapse \---
