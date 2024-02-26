@@ -23,6 +23,9 @@ steps:
     title: Lauftext
   - 
     title: Eine Entscheidung treffen
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Herausforderung: Mehrere Antworten'
   - 
