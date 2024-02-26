@@ -23,6 +23,9 @@ steps:
     title: Sgrolio testun
   - 
     title: Gwneud penderfyniad
+    completion:
+      - engaged
+      - internal
   - 
     title: 'Her: Atebion lluosog'
   - 
