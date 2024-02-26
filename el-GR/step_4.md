@@ -1,12 +1,13 @@
 \--- challenge \---
 
-## Challenge: Multiple answers
+## Πρόκληση: Πολλαπλές απαντήσεις
 
-Can you add code so that 'Yes' is displayed on your micro:bit **if** the answer is 1? You can even change the text shown to something more interesting than just 'Yes' and 'No'!
+Μπορείς να γράψεις επιπλέον κώδικα, έτσι ώστε το micro:bit να λεει 'Yes' **εάν** η μεταβλητή απάντηση είναι 1; Μπορείς επίσης να αλλάξεις το κείμενο που θα εμφανίζεται με κάτι πιο ενδιαφέρον από το 'Yes' και 'No'!
 
-You can even make your micro:bit say something like 'Maybe' or 'Ask again' if the answer is 2. To get this working, you'll also need to change your code to choose a random number between 0 and 2!
+Μπορείς ακόμη να κάνεις το micro:bit σου να λέει κάτι σαν 'Maybe' ή 'Ask again' όταν η μεταβλητή απάντηση πάρει την τιμή 2. Για να δουλέψει κάτι τέτοιο, θα χρειαστεί να τροποποιήσεις των κώδικά σου, έτσι ώστε να επιλέγει ένα τυχαίο αριθμό μεταξύ 0 και 2!
 
-Tip: You can right-click on an `if` block to duplicate the block and its contents.
+Συμβουλή: Μπορείς να κάνεις δεξί κλικ σε ένα μπλοκ `
+εάν`, για να φτιάξεις ένα αντίγραφο του κώδικα και των περιεχομένων του.
 
 ![screenshot](images/fortune-random-2.png)
 
