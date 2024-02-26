@@ -4,9 +4,7 @@ Rydych chi'n mynd i godio eich micro:bit i ddarllen y dyfodol! Yn syml, gofynnwc
 
 **Cyfarwyddiadau**: Os ydych yn darllen hwn ar-lein, gofynnwch gwestiwn i'r micro:bit isod a phwyso **A** i gael eich ateb!
 
-<div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_X8jUAqb9mdfj" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 ### Gwybodaeth ychwanegol ar gyfer arweinwyr clwb
 
