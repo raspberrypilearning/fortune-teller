@@ -1,13 +1,13 @@
-## Scrolling text
+## Κυλιόμενο κείμενο
 
-Let's start by scrolling some text instructions on your micro:bit.
+Ας αρχίσουμε εμφανίζοντας κάποιες κυλιόμενες οδηγίες στο micro:bit σου.
 
-+ Go to <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> to start a new project in the MakeCode (PXT) editor. Call your new project 'Fortune Teller'.
++ Πήγαινε στο <a href="https://rpf.io/microbit-new" target="_blank">rpf.io/microbit-new</a> για να ξεκινήσεις ένα νέο project στον επεξεργαστή MakeCode (PXT). Ονόμασε το νέο σου έργο 'Μάντης'.
 
-You can delete the `forever` block by dragging it over the palette, you don't need it for this project.
+Μπορείς να διαγράψεις το μπλοκ `για πάντα` σύροντας το πάνω στην παλέτα εργαλείων, μια και δεν το χρειάζεσαι πλέον γι' αυτό το έργο.
 
-+ Drag a `show string` block inside your `start` block.
++ Σύρε ένα μπλοκ `εμφάνισε συμβολοσειρά` μέσα στο μπλοκ `κατά την έναρξη`.
 
-![screenshot](images/fortune-press-a.png)
+![στιγμιότυπο οθόνης](images/fortune-press-a.png)
 
-+ Test out your code. You can test it out in the emulator or on the micro:bit itself.
++ Δοκίμασε τον κώδικά σου. Μπορείς να το δοκιμάσεις στον προσομοιωτή ή ακόμη και στο ίδιο το micro:bit.
