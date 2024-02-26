@@ -23,6 +23,9 @@ steps:
     title: ಸ್ಕ್ರೋಲಿಂಗ್ ಪಠ್ಯ
   - 
     title: ನಿರ್ಧಾರ ಮಾಡುವುದು
+    completion:
+      - engaged
+      - internal
   - 
     title: 'ಸವಾಲು: ಬಹು ಉತ್ತರಗಳು'
   - 
